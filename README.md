@@ -2,6 +2,8 @@
 
 A beautiful, smooth, and responsive **Floating Action Button** (FAB) that expands into a fully animated **menu overlay** — complete with glassy blur backdrop and springy item transitions. Built with **Reanimated 3** and **expo-blur** 💫
 
+https://github.com/user-attachments/assets/c466d0b0-a87f-4e82-a9e0-f419c9e41ecb
+
 ## ✨ Features
 
 - 🔘 Floating button with smooth **expand/contract animations**
