@@ -628,7 +628,7 @@ export default function MoneySpendingTracker() {
         <View style={styles.headerContent}>
           <View>
             <Text style={styles.greeting}>{getGreeting()}</Text>
-            <Text style={styles.userName}>Chrisanne</Text>
+            <Text style={styles.userName}>rit3zh</Text>
           </View>
           <View style={styles.headerRight}>
             <Animated.View style={animatedPulseStyle}>
@@ -643,7 +643,7 @@ export default function MoneySpendingTracker() {
             </Animated.View>
             <TouchableOpacity style={styles.avatarButton}>
               <View style={styles.avatar}>
-                <Text style={styles.avatarText}>CS</Text>
+                <Text style={styles.avatarText}>RZ</Text>
               </View>
             </TouchableOpacity>
           </View>
